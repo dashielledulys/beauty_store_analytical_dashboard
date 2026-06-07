@@ -45,7 +45,7 @@
 ### Лист 3: Документация
 Справочная информация по дашборду: назначение, метрики, фильтры, FAQ
 
-![Лист 3](screenshots/sheet3_documentation.png)
+![Лист 3](screenshots/sheet3_documentation.PNG)
 
 ---
 
